@@ -712,7 +712,7 @@ body {
   .papel {
     background-image: url("./img/papel.png");
     width: auto;
-    height: 500px;
+    height: 100%;
     margin-top: 0px;
   }
 
@@ -820,7 +820,7 @@ body {
   .papel {
     background-image: url("./img/papel.png");
     width: auto;
-    height: 500px;
+    height: 100%;
 
   }
 
@@ -836,7 +836,7 @@ body {
 
   .papel {
 
-    height: 80%;
+    height: 100%;
 
   }
 
@@ -904,7 +904,7 @@ body {
 
   .papel {
     background-image: url("./img/papel.png");
-    height: 80%;
+    height: 100%;
 
   }
 
@@ -974,7 +974,7 @@ body {
 
   .papel {
     background-image: url("./img/papel.png");
-    height: 80%;
+    height: 100%;
 
   }
 
