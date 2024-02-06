@@ -898,7 +898,7 @@ body.dark-overlay {
   .pix {
     position: fixed;
     width: 290px;
-    height: 380px;
+    height: 410px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
