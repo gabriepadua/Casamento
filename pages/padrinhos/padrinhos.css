@@ -299,7 +299,7 @@ body {
 
     .textinho {
         width: auto;
-        height: 100%;
+        height: 90%;
     }
 
     .textinho2 {
@@ -375,7 +375,7 @@ body {
 
 @media (min-width: 1600px) {
     .textinho {
-        height: 100%;
+        height: 80%;
     }
 
     .fotos img {
@@ -397,7 +397,7 @@ body {
 
     .textinho {
         width: auto;
-        height: 100%;
+        height: 86%;
     }
 
     .textinho2 {
