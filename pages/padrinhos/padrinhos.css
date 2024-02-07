@@ -299,7 +299,7 @@ body {
 
     .textinho {
         width: auto;
-        height: 90%;
+        height: 80%;
     }
 
     .textinho2 {
@@ -317,7 +317,7 @@ body {
     }
 
     .queridos {
-        font-size: 35px;
+        font-size: 30px;
         margin-left: 10%;
         margin-right: 10%;
         margin-bottom: 0px;
@@ -385,6 +385,9 @@ body {
 
     .page-link {
         font-size: 22px;
+    }
+    .queridos{
+        font-size: 35px;
     }
 
 }
